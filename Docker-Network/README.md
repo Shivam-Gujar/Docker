@@ -34,14 +34,14 @@ You don’t need to configure anything manually at the start.
 
 ---
 
-## 3. Docker Network Types (Beginner View)
+## 3. Docker Network Types 
 
 Docker has many network types, but beginners should focus on **ONE**.
 
 ### 3.1 Bridge Network (Most Important)
 
 * This is the **default network**
-* Used in almost all beginner projects
+* Used in almost all projects
 
 Example:
 
@@ -114,7 +114,7 @@ http://localhost
 
 ---
 
-## 6. User-Defined Networks (Simple but Important)
+## 6. User-Defined Networks 
 
 Instead of using default network, you can create your own:
 
